@@ -128,12 +128,3 @@ Data Analytics | Power BI | Machine Learning
 
 ---
 
-## ⭐ Project Value
-
-This project demonstrates:
-- End-to-end analytics in a manufacturing context  
-- Integration of ML with BI tools  
-- Predictive quality monitoring  
-- Actionable operational insights  
-
-👉 Designed for **real-world manufacturing optimisation and data-driven decision making**
