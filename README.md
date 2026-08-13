@@ -1,6 +1,6 @@
-# 🏭 Manufacturing Defects Analytics & Prediction Project
+#  Manufacturing Defects Analytics & Prediction Project
 
-## 🚀 Overview
+##  Overview
 
 This project delivers an end-to-end manufacturing analytics solution, combining **machine learning and Power BI dashboards** to analyse defect patterns and predict defect risk using operational production data.
 
@@ -8,33 +8,33 @@ It enables organisations to move from **reactive quality control** to **proactiv
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-### 📈 Interactive Power BI Dashboard
+###  Interactive Power BI Dashboard
 - Executive overview of defect metrics and trends  
 - Defect drivers and production insights  
 - Process-level performance analysis  
 - Risk segmentation for operational monitoring  
 
-### 🤖 Machine Learning Model
+###  Machine Learning Model
 - Predicts defect probability for each production instance  
 - Classifies risk levels (Low → High)  
 - Compares model performance using ROC curves  
 - Provides interpretable insights into defect drivers  
 
-### 🧪 Process Analysis
+###  Process Analysis
 - Additive manufacturing process breakdown  
 - Identification of high-risk production conditions  
 - Data-driven quality improvement insights  
 
-### 📄 Analytical Outputs
+###  Analytical Outputs
 - Model evaluation (ROC curves, performance metrics)  
 - Exploratory data analysis (EDA) visuals  
 - Risk categorisation outputs for BI integration  
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 Manufacturing defects increase:
 - Production costs  
@@ -51,7 +51,7 @@ This project addresses:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Overview
 ![Executive Overview](https://github.com/user-attachments/assets/3a6c161a-c60d-46f8-bbcd-c8387e2db0e6)
@@ -64,7 +64,7 @@ This project addresses:
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
 - Data preprocessing and cleaning  
 - Feature engineering from production metrics  
@@ -78,7 +78,7 @@ This project addresses:
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 ### ROC Curve Comparison
 ![ROC Curves](https://github.com/user-attachments/assets/0303bb68-fe20-40c4-87f3-7c155fd333ae)
@@ -94,7 +94,7 @@ This project addresses:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Defect risk is strongly influenced by production conditions  
 - Certain manufacturing processes exhibit higher defect rates  
@@ -103,7 +103,7 @@ This project addresses:
 
 ---
 
-## 🧩 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, Scikit-learn, NumPy)  
 - Machine Learning (Classification Models)  
@@ -112,7 +112,7 @@ This project addresses:
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - Real-time defect prediction integration  
 - Process optimisation recommendations  
@@ -121,7 +121,7 @@ This project addresses:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Richard McInerney**  
 Data Analytics | Power BI | Machine Learning  
