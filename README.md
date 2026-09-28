@@ -54,13 +54,16 @@ This project addresses:
 ##  Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](https://github.com/user-attachments/assets/3a6c161a-c60d-46f8-bbcd-c8387e2db0e6)
+<img width="1301" height="732" alt="Executive_Overview_v2" src="https://github.com/user-attachments/assets/a68298cb-deb4-494a-95e3-79374cdf1607" />
+
 
 ### Manufacturing Drivers
-![Manufacturing Drivers](https://github.com/user-attachments/assets/cda0f62b-21bd-4d5d-89fe-4162c038932e)
+<img width="1300" height="732" alt="Manufacturing_Drivers_v2" src="https://github.com/user-attachments/assets/4934e632-a0a2-4d7b-952d-a3596593dc10" />
+
 
 ### Process Analysis
-![Process Analysis](https://github.com/user-attachments/assets/40b41455-a02e-4cc5-adf7-ff373c935b38)
+<img width="1302" height="730" alt="Addidtive_Manufacturing_Analysis_v2" src="https://github.com/user-attachments/assets/7622d1e1-8424-42fb-b478-8b5f5844109c" />
+
 
 ---
 
