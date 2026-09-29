@@ -2,9 +2,9 @@
 
 ##  Overview
 
-This project delivers an end-to-end manufacturing analytics solution, combining **machine learning and Power BI dashboards** to analyse defect patterns and predict defect risk using operational production data.
+This project delivers an end-to-end manufacturing analytics solution, combining machine learning and Power BI dashboards to analyse defect patterns and predict defect risk using operational production data.
 
-It enables organisations to move from **reactive quality control** to **proactive, risk-based decision making**.
+It enables organisations to move from reactive quality control to proactive, risk-based decision making.
 
 ---
 
